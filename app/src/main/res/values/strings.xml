@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Kalkulator</string>
+    <string name="app_name">Calculator</string>
     <string name="_1">1</string>
     <string name="_2">2</string>
     <string name="_3">3</string>
@@ -16,4 +16,6 @@
     <string name="_0">0</string>
     <string name="equals">=</string>
     <string name="multiplication">*</string>
+    <string name="c">C</string>
+    <string name="clear_one"><![CDATA[<x]]></string>
 </resources>
